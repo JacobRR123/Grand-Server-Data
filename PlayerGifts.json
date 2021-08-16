@@ -4,13 +4,13 @@
     "1727281811 ": [
       {
         "Id": 7009,
-        "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e",
+        "AvatarItemDesc": "",
         "ConsumableItemDesc": "",
         "EquipmentPrefabName": "",
         "EquipmentModificationGuid": "",
-        "CurrencyType": ,
-        "Currency": ,
-        "Xp": ,
+        "CurrencyType": 1,
+        "Currency": 53553535364,
+        "Xp": 0,
         "Level": 0,
         "GiftRarity": 50,
         "Message": "S",
